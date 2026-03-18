@@ -1,8 +1,8 @@
 # Arka Paul
 
-Cybersecurity graduate with a strong interest in vulnerability research, reverse engineering, and offensive security analysis.
+Cybersecurity graduate with First Class Honours in Computer Science (Cyber Security). My work focuses on vulnerability analysis, reverse engineering, digital forensics, and network security research.
 
-My work focuses on analysing real-world security weaknesses in binaries, web applications, and network systems. I build practical projects that demonstrate attack techniques, security flaws, and defensive insights.
+I develop practical security projects that explore real-world vulnerabilities in software systems, web applications, and network infrastructure.
 
 ---
 
@@ -11,55 +11,50 @@ My work focuses on analysing real-world security weaknesses in binaries, web app
 * Reverse Engineering
 * Binary Vulnerability Analysis
 * Web Application Security
+* Digital Forensics
 * Network Traffic Analysis
 * Penetration Testing
-* Digital Forensics
 
 ---
 
-## Cybersecurity Project Portfolio
+## Featured Cybersecurity Projects
 
 ### Reverse Engineering Vulnerability Analysis
 
-Reverse engineering of an x86 binary to reconstruct authentication logic, analyse algorithms, and identify memory-safety vulnerabilities.
+Reverse engineering of an x86 binary to analyse authentication logic, program behaviour, and memory-safety vulnerabilities.
 
-Repository
 https://github.com/Arka-Paul/reverse-engineering-vulnerability-analysis
 
 ---
 
 ### Web Application SQL Injection Assessment
 
-Security analysis of a vulnerable web application demonstrating SQL injection exploitation, database enumeration, credential extraction, and integrity manipulation.
+Security assessment of a vulnerable web application demonstrating SQL injection exploitation and database enumeration.
 
-Repository
 https://github.com/Arka-Paul/webapp-sql-injection-lab
-
----
-
-### SMTP Phishing Attack Simulation
-
-Investigation of SMTP server misconfiguration and phishing attack techniques including user enumeration, spoofed email delivery, and reverse shell interaction.
-
-Repository
-https://github.com/Arka-Paul/smtp-phishing-attack-lab
 
 ---
 
 ### Passive Network Enumeration Analysis
 
-Passive reconnaissance using Wireshark to analyse captured traffic, identify hosts, inspect DNS and HTTP communications, and detect suspicious behaviour.
+Network traffic analysis using Wireshark to identify hosts, DNS activity, and suspicious HTTP behaviour.
 
-Repository
 https://github.com/Arka-Paul/passive-enumeration-network-analysis
+
+---
+
+### SMTP Phishing Attack Simulation
+
+Investigation of SMTP misconfiguration enabling phishing and email spoofing techniques.
+
+https://github.com/Arka-Paul/smtp-phishing-attack-lab
 
 ---
 
 ### Denial of Service Impact Analysis
 
-Experimental analysis of server behaviour under high-volume network traffic to study resource exhaustion and service degradation.
+Experimental study of server behaviour under simulated high-volume network traffic.
 
-Repository
 https://github.com/Arka-Paul/dos-impact-analysis
 
 ---
@@ -69,17 +64,21 @@ https://github.com/Arka-Paul/dos-impact-analysis
 * Kali Linux
 * Wireshark
 * Ghidra
+* Burp Suite
+* Metasploit
 * Netcat
-* SQL Injection Techniques
-* Binary Analysis
-* Network Traffic Analysis
-* Reverse Engineering
+* Python
+* Bash
+* SQL
+* Git & GitHub
 
 ---
 
-## Academic Background
+## Education
 
 BSc (Hons) Computer Science – Cyber Security
+First Class Honours
+University of Greenwich
 
 ---
 
