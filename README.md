@@ -28,6 +28,16 @@ I develop practical cybersecurity projects that explore real-world vulnerabiliti
 
 # Cybersecurity Portfolio
 
+## LSB Steganography Payload Detection
+
+Digital forensics tool for identifying hidden file types embedded within images using LSB steganography.
+
+Uses bit-level extraction, magic byte analysis, and entropy validation to detect and classify concealed payloads (e.g., PDF, DOCX, EXE). Focused on forensic accuracy, explainability, and analysis of steganographic techniques.
+
+https://github.com/Arka-Paul/lsb-stego-detector
+
+---
+
 ## Reverse Engineering Vulnerability Analysis
 
 Reverse engineering of an x86 binary to reconstruct authentication logic, analyse algorithms, and identify memory-safety vulnerabilities.
