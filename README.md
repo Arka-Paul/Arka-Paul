@@ -99,7 +99,7 @@ https://github.com/Arka-Paul/python-port-scanner
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arka-Paul&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
